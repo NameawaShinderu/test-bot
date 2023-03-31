@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.62.2",
+    "mal-scraper": "^2.12.0"
+  }
+}
