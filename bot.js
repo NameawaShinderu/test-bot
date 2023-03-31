@@ -13,7 +13,7 @@ function start(client) {
         client.sendText(message.from, responseText)
       } catch (err) {
         console.error(err)
-        client.sendText(message.from, 'Sorry, an error occurred while searching for the anime.')
+        client.sendText(message.from, 'Error hain bhai, thik se likh')
       }
     }
   })
